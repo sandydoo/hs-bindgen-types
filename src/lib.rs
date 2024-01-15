@@ -273,7 +273,7 @@ repr_hs! {
     c_float  => CFloat,
     c_int    => CInt,
     c_short  => CShort,
-    c_uchar  => CUChar,
+    // c_uchar  => CUChar,
     c_uint   => CUInt,
     c_ushort => CUShort,
     ()       => Empty,
